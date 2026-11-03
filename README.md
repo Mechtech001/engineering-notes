@@ -1,4 +1,5 @@
 # Engineering notes
+[![Last updated](https://img.shields.io/github/last-commit/Mechtech001/engineering-notes)](https://github.com/Mechtech001/engineering-notes/commits/main)
 
 Aditya Sharma — decisions, debugging, measured results. Each note is short: one problem, the evidence, a conclusion. No fluff.
 
