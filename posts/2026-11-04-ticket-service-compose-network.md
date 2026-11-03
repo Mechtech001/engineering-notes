@@ -26,6 +26,8 @@ The frontend’s Vite dev server proxied `/api` and `/socket.io` to `gateway-ser
 
 ## The fix
 
+**Fixed in commit [`1354971`](https://github.com/Mechtech001/distributed-ticket-service/commit/1354971) — 2026-11-03.**
+
 In `frontend/vite.config.js`:
 
 ```js
